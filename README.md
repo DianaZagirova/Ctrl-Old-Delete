@@ -28,7 +28,7 @@ This page is your **main portal** to the code, ideas, and progress for the “Ag
 
 ---
 
-## :world_map: Hackathon Repositories (Workflow Code)
+## :octocat: Hackathon Repositories (Workflow Code)
 
 Our system follows a structured, agentic multi-stage pipeline:
 
