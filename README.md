@@ -58,7 +58,7 @@ Our system follows a structured, agentic multi-stage pipeline:
 - **Goal:**  
     - Create an embeddings database from extracted knowledge.
     - Employ Retrieval-Augmented Generation (RAG) for enhanced, accurate question answering about aging theories.  
-  [🔗 Stage 5 Repository: theories_extraction_agent]([https://github.com/DianaZagirova/theories_extraction_agent](https://github.com/DianaZagirova/RAG_question_answering_agent))
+  [🔗 Stage 5 Repository: theories_extraction_agent](https://github.com/DianaZagirova/RAG_question_answering_agent)
 
 ---
 
