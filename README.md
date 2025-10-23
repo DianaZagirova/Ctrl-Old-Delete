@@ -9,7 +9,7 @@ _Aging is humanity’s most universal puzzle. Can modern AI identify **all** the
 
 ---
 > **:sparkles: Project Final Results & Data**  
-> :file_folder: [All results, datasets, and final outputs are available here!](https://drive.google.com/drive/folders/11SeqMT_Sjd2AOA2smFy-ixIONTtbRCDA?usp=sharing)
+> :file_folder: [The final results are available here](https://drive.google.com/drive/folders/11SeqMT_Sjd2AOA2smFy-ixIONTtbRCDA?usp=sharing)
 ---
 
 ## 🚀 Project Overview
