@@ -65,12 +65,11 @@ Our system follows a structured, agentic multi-stage pipeline:
   [🔗 Stage 5 Repository: theories_extraction_agent](https://github.com/DianaZagirova/RAG_question_answering_agent)
 
 
-### ️*. Additional Stage: Analyze true and false positives **  
+### ️**6. Additional Stage: Analyze true and false positives**  
 - **Goal:**  
     - Use GPT-5 to analyze true and false positives aging-theory-related articles to refine the definition of aging-theory-related articles.
     - Create a detailed queries for PubMed search (for Stage 1).
   [🔗 Additional Stage Repository: paper patterns agent](https://github.com/DianaZagirova/paper_patterns)
-
 ---
 
 ## 📝 Final Datasets, Results, and Pipelines
