@@ -17,6 +17,8 @@ _Aging is humanity’s most universal puzzle. Can modern AI identify **all** the
 🌐 **Explore the Project Website:**  
 [Agentic AI Against Aging — Interactive Web App](https://v0-agentic-workflow-website.vercel.app)
 
+---
+## :octocat: Hackathon Repositories (Workflow Code)
 
 This page is your **main portal** to the code, ideas, and progress for the “Agentic AI Against Aging” hackathon submission focused on mapping the full landscape of scientific aging theories.
 
@@ -25,10 +27,6 @@ This page is your **main portal** to the code, ideas, and progress for the “Ag
 > This document will guide you through the flow, logic, and module links.  
 >
 > _Aging is inevitable. But our inspiration is timeless!_ ⏳
-
----
-
-## :octocat: Hackathon Repositories (Workflow Code)
 
 Our system follows a structured, agentic multi-stage pipeline:
 
