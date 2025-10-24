@@ -88,11 +88,11 @@ Please explore repositories/examples files and demos. All other data could be pr
 ## :man_scientist: Team & Acknowledgments
 
 This project is part of the “Agentic AI Against Aging” hackathon.
-- Team lead: Diana Zagirova
+- Team: Diana Zagirova
 
 ---
 
 > _Aging is certain. But the future of understanding it is now more ageless than ever, thanks to AI._  
 ```
----
+
 
